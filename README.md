@@ -160,7 +160,7 @@ python etl/main.py
 ### 7️⃣ Run Streamlit App
 
 ```bash
-streamlit run app/app.py
+python -m streamlit run app/app.py
 ```
 
 ---
