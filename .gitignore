@@ -16,9 +16,7 @@ ENV/
 .env
 .etl/.env
 app/.streamlit/secrets.toml
-app/.streamlit/.secrets/
 .streamlit/secrets.toml
-.secrets/
 # =========================
 # Logs & Debug
 # =========================
